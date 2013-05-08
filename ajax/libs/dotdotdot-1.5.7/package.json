@@ -1,0 +1,15 @@
+{
+    "name": "jquery.dotdotdot-1.5.7.js",
+    "version": "1.5.7",
+    "filename": "jquery.dotdotdot-1.5.7.js",
+    "description": "A jQuery-compatible dot dot dot extension",
+    "homepage": "http://dotdotdot.frebsite.nl/",
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://www.opensource.org/licenses/mit-license.php"
+    }],
+    "keywords" : [
+        "dotdotdot"
+    ]
+}
+
